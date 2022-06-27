@@ -48,3 +48,27 @@
                  </div>
 
 - Aqui temos uma div com um título e um parágrafo, ambos encadeados;
+## Tags sem fechamento
+- Há tags que não possuem fechamento;
+- Geralmente é quando ela não tem conteúdo;
+- Um exemplo é a imagem, veja:
+
+       <img src="minhaimagem.jpg" alt="Conteúdo da imagem">
+- Os atributos configuram a tag completamente;
+- Inserindo o caminho da imagem (src) e uma descrição(alt);
+## Estrutura básica do HTML
+- Todo documento de HTML tem uma estrutura muito semelhante, composta por tags essenciais, exemplo:
+
+       <!DOCTYPE html>
+       <html lang="en">
+       <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Titulo</title>
+       <head>
+       <body>
+              <h1>Conteúdo do site</h1>
+       </body>
+       </html>
+       
+       
