@@ -25,21 +25,26 @@
 - Temos uma sintaxe semelhante para quase todas elas;
 - Sintaxe é a forma de como é codificado algo em uma linguagem de programação;
 
-- Exemplo:
-       <p> Este é um texto </p>
+       - Exemplo:
+               <p> Este é um texto </p>
 
 - Esta tag cria um parágrafo no nosso site;
 ## Os atributos do HTML
 - Atributos são como opções especiais para configurar determinadas tags;
-- Exemplo: <a href="https://www.google.com" target="_blank"> Ir para o Google</a>
+
+       - Exemplo: 
+               <a href="https://www.google.com" target="_blank"> Ir para o Google</a>
+               
 -  (a = ancor/ancora) target envia para uma nova página
 - Esta tag gera um elento cicável, que nos leva até uma outra página;
 - E o link desta página é determinado pelo atributo href;
 ## Encadeamento (nesting)
 - Encadeamento, também chamado de nesting, é quando adicionamos um elemento dentro de outro;
 - Uma técnica importante do HTML, para criar sessões;
-- Exemplo: <dIV>
-            <H1>Meu título </h1>    
-            <p>Meu conteúdo</p>   
-          </div>
+ 
+       - Exemplo: <dIV>
+                   <H1>Meu título </h1>    
+                   <p>Meu conteúdo</p>   
+                 </div>
+
 - Aqui temos uma div com um título e um parágrafo, ambos encadeados;
